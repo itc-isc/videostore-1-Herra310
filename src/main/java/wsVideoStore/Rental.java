@@ -1,3 +1,4 @@
+package wsVideoStore;
 
 public class Rental
 {
